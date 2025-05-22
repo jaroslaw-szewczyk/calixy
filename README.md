@@ -1,50 +1,26 @@
-# Welcome to your Expo app 👋
+# Calixy
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+**Calixy** is a mobile application built with [Expo](https://expo.dev/) and React Native. Its goal is to support users in maintaining a healthy lifestyle by helping them:
 
-## Get started
+- Log meals and track daily calorie intake  
+- Record workouts and physical activity  
+- View daily, weekly, and monthly statistics  
 
-1. Install dependencies
+## Project Status
 
-   ```bash
-   npm install
-   ```
+This project is currently under active development. I'm working on the core features and app structure. The code is regularly updated as the development progresses.
 
-2. Start the app
+## Technologies
 
-   ```bash
-   npx expo start
-   ```
+- React Native  
+- Expo  
+- TypeScript (planned)  
+- Local Storage / SQLite (planned)  
 
-In the output, you'll find options to open the app in a
+## Why this project?
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+I’m building Calixy to improve my skills as a mobile developer while creating a useful tool for real-life health tracking. This project allows me to work on state management, mobile navigation, UI/UX design, and offline data handling.
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+---
 
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+> Installation and configuration instructions will be added in the future, once the app reaches a more stable version.
